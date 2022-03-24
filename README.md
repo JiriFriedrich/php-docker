@@ -1,6 +1,6 @@
-#Php project docker starter
+# Php project docker starter
 
-##Initial steps:
+## Initial steps:
 
 - create .env file from .env.example and choose a unique project name
 - if you don't have nginx-proxy running, delete VIRTUAL_HOST environment variable and uncomment ports section under nginx service
